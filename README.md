@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8" />
@@ -206,7 +205,7 @@
 
     <div class="btns" id="btns">
       <button class="yes" id="yesBtn">Sí 💚</button>
-      <button class="no" id="noBtn">Obvio sí 🙃</button>
+      <button class="no" id="noBtn">No 🙃</button>
     </div>
 
     <div class="footer">Nota: de todas maneras no tienes opción… ya eres mía 😌</div>
